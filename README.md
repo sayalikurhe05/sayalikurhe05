@@ -59,7 +59,6 @@
 
 <img src="mermaid_ocean.gif" width="100%" alt="Mermaid swimming through a magical underwater ocean" />
 
-[🌊 [▶ PLAY](https://github.com/sayalikurhe05/sayalikurhe05/blob/main/mermaid_ocean_github_banner.gif)*](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
+[🌊 <img src="https://img.shields.io/badge/▶_PLAY-ff69b4?style=for-the-badge" alt="PLAY" />](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
 
 </div>
-
