@@ -54,6 +54,6 @@
 
 ![Mermaid Ocean](mermaid_ocean_realistic.gif)
 
-[Play the interactive game →](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
+[Play →](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
 
 </div>
