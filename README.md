@@ -1,9 +1,7 @@
-![Mermaid Ocean](mermaid_ocean_github_banner.gif)
+ <div align="center">
 
-
-<div align="center">
-
-<img src="mermaid_ocean_github_banner.gif" alt="Mermaid Ocean Banner" width="100%" />
+<img src="mermaid_ocean_top.gif" width="100%" alt="Mermaid ocean top" />
+<img src="mermaid_ocean_bottom.gif" width="100%" alt="Mermaid ocean bottom" />
 
 # 𝒮𝒶𝓎𝒶𝓁𝒾 𝒦𝓊𝓇𝒽𝑒
 
@@ -67,4 +65,3 @@
 🌊 🐚 🫧 🪼
 
 </div>
-
