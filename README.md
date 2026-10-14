@@ -55,8 +55,18 @@
 
 ## 🧜‍♀️ Mermaid Ocean Adventure
 
+## 🧜‍♀️ Mermaid Ocean Adventure
+
 <div align="center">
-  <a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
-    <img src="https://img.shields.io/badge/▶%20PLAY-ff69b4?style=for-the-badge&labelColor=ff69b4" alt="▶ PLAY" />
-  </a>
+
+<a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
+  <img src="mermaid_ocean_github_banner.gif" width="100%" alt="Mermaid Ocean Adventure game banner" />
+</a>
+
+<br/>
+
+<a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
+  <img src="https://img.shields.io/badge/▶%20PLAY-ff69b4?style=for-the-badge&labelColor=ff69b4" alt="PLAY" />
+</a>
+
 </div>
