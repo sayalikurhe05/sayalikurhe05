@@ -56,9 +56,7 @@
 ## 🧜‍♀️ Mermaid Ocean Adventure
 
 <div align="center">
-
-<img src="mermaid_ocean.gif" width="100%" alt="Mermaid swimming through a magical underwater ocean" />
-
-[🌊 <img src="https://img.shields.io/badge/▶_PLAY-ff69b4?style=for-the-badge" alt="PLAY" />](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
-
+  <a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
+    <img src="https://img.shields.io/badge/▶%20PLAY-ff69b4?style=for-the-badge&labelColor=ff69b4" alt="▶ PLAY" />
+  </a>
 </div>
