@@ -69,16 +69,6 @@
 
 ---
 
-## 🐚 Contribution Ocean
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/sayalikurhe05/sayalikurhe05/output/snake.svg)
-
-</div>
-
----
-
 <div align="center">
 
 *“Keep exploring. Keep creating. Let your ideas flow.”*
