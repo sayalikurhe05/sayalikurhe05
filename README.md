@@ -66,8 +66,15 @@
 
 </div>
 
-## 🧜‍♀️ My Ocean Game
 
-Dive into my underwater world!
+## 🧜‍♀️ Mermaid Ocean Adventure
 
-[🌊 Play Mermaid Ocean Adventure](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
+<div align="center">
+
+![Mermaid Ocean](mermaid_ocean_realistic.gif)
+
+*Glowing pearls, colorful fish, coral reefs, and a magical underwater world.*
+
+[Play the interactive game →](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
+
+</div>
