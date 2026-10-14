@@ -1,8 +1,8 @@
 
 <div align="center">
 
-<img src="mermaid_profile_banner_top.gif" width="100%" alt="Mermaid ocean top banner" />
-<img src="mermaid_profile_banner_bottom.gif" width="100%" alt="Mermaid ocean bottom banner" />
+<img src="top.gif" width="100%" alt="Mermaid ocean upper banner" />
+<img src="bottom.gif" width="100%" alt="Mermaid ocean lower banner" />
 
 # 𝒮𝒶𝓎𝒶𝓁𝒾 𝒦𝓊𝓇𝒽𝑒
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="mermaid_ocean_realistic.gif" width="100%" alt="Mermaid swimming through a magical underwater ocean" />
+<img src="mermaid_ocean.gif" width="100%" alt="Mermaid swimming through a magical underwater ocean" />
 
 *Glowing pearls, colorful fish, coral reefs, and a magical underwater world.*
 
