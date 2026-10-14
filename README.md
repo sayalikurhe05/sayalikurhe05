@@ -1,7 +1,8 @@
- <div align="center">
 
-<img src="mermaid_ocean_top.gif" width="100%" alt="Mermaid ocean top" />
-<img src="mermaid_ocean_bottom.gif" width="100%" alt="Mermaid ocean bottom" />
+<div align="center">
+
+<img src="mermaid_profile_banner_top.gif" width="100%" alt="Mermaid ocean top banner" />
+<img src="mermaid_profile_banner_bottom.gif" width="100%" alt="Mermaid ocean bottom banner" />
 
 # 𝒮𝒶𝓎𝒶𝓁𝒾 𝒦𝓊𝓇𝒽𝑒
 
@@ -38,6 +39,8 @@
 
 </div>
 
+---
+
 ## 🌊 GitHub Statistics
 
 <div align="center">
@@ -48,12 +51,38 @@
 
 </div>
 
+---
+
 ## 🧜‍♀️ Mermaid Ocean Adventure
 
 <div align="center">
 
-![Mermaid Ocean](mermaid_ocean_realistic.gif)
+<img src="mermaid_ocean_realistic.gif" width="100%" alt="Mermaid swimming through a magical underwater ocean" />
 
-[Play →](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
+*Glowing pearls, colorful fish, coral reefs, and a magical underwater world.*
+
+[🌊 **Play Mermaid Ocean Adventure**](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
+
+<sub>Built with HTML, CSS and JavaScript</sub>
+
+</div>
+
+---
+
+## 🐚 Contribution Ocean
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/sayalikurhe05/sayalikurhe05/output/snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*“Keep exploring. Keep creating. Let your ideas flow.”*
+
+🌊 🐚 🫧 🪼
 
 </div>
