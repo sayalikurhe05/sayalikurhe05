@@ -48,32 +48,11 @@
 
 </div>
 
-## 🐚 Contribution Ocean
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/sayalikurhe05/sayalikurhe05/output/snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-*“Keep exploring. Keep creating. Let your ideas flow.”*
-
-🌊 🐚 🫧 🪼
-
-</div>
-
-
 ## 🧜‍♀️ Mermaid Ocean Adventure
 
 <div align="center">
 
 ![Mermaid Ocean](mermaid_ocean_realistic.gif)
-
-*Glowing pearls, colorful fish, coral reefs, and a magical underwater world.*
 
 [Play the interactive game →](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
 
