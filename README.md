@@ -59,20 +59,7 @@
 
 <img src="mermaid_ocean.gif" width="100%" alt="Mermaid swimming through a magical underwater ocean" />
 
-*Glowing pearls, colorful fish, coral reefs, and a magical underwater world.*
-
-[🌊 **Play Mermaid Ocean Adventure**](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
-
-<sub>Built with HTML, CSS and JavaScript</sub>
+[🌊 [▶ PLAY](https://github.com/sayalikurhe05/sayalikurhe05/blob/main/mermaid_ocean_github_banner.gif)*](https://sayalikurhe05.github.io/mermaid-ocean-adventure/)
 
 </div>
 
----
-
-<div align="center">
-
-*“Keep exploring. Keep creating. Let your ideas flow.”*
-
-🌊 🐚 🫧 🪼
-
-</div>
