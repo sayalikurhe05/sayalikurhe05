@@ -58,7 +58,7 @@
 <div align="center">
 
 <a href="https://sayalikurhe05.github.io/mermaid-ocean-adventure/">
-  <img src="mermaid_ocean_github_banner.gif" width="100%" alt="Click to play Mermaid Ocean Adventure" />
+  <img src="game.gif" width="100%" alt="Click to play Mermaid Ocean Adventure" />
 </a>
 
 <br/>
